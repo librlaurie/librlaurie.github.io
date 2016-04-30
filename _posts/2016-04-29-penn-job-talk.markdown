@@ -2,13 +2,20 @@
 layout: post
 title:  "Penn Job Talk"
 date:   2016-04-29
-categories: testing
+categories: talks
 ---
-### Penn Libraries Job Talk. December 4, 2015
+### Penn Libraries Job Talk
 
-Thank you so much for being here today. My talk today is going to address the question I was asked, but before I get started, I will spend a few moments talking about who I am and what I’m bringing to this question. Part of what I bring is my love for Philly. This is my home, and the city I love. As many of you know I worked here at Penn from 2002-2008, and I've been at Haverford for the past 7 and a half years. For the first few years at Haverford, I was the Coordinator for Research, Instruction, and Outreach, and after we brought in a new library director and she led us through a big re-organization, I moved into my current role as Coordinator for Digital Scholarship and Services.
+What follows is a very lightly edited version of the talk I gave as part of my interview for the job of Assistant Director for Digital Scholarship on December 4, 2015. I had a lot of slides, and most of them aren't here (there are links where there were screenshots, instead). Also, I had a bunch of jokes in the talk. It turns out I'm very corny. I couldn't keep them in the written version either.
 
-In that role, I’ve been working with my colleagues at Haverford to build a Digital Scholarship program. At Haverford, we define digital scholarship as library partnerships with faculty and students to create scholarship in new forms. Building this program means we’ve built the human and technical infrastructure in the library to make digital scholarship as manageable and sustainable as we think it can reasonably be, understanding that learning and creating scholarship is a creative, messy, and iterative process. In practical terms, our work involves engagements with faculty and students in the curriculum, on larger scale research projects, and fellowships, internships and jobs for students. Over the past few years, the digital scholarship group has been involved in dozens of courses, ranging from 20 minute drop-ins to courses where DS labs were built into the weekly schedule and integral to the course outline. We’re now in our second year running a fellowship program for students interested in a sustained DS learning opportunity, and we recently hired a drexel libary school intern to help run that program. We’re also partnering with faculty on some big and exciting projects, some of which I’ll mention in this talk, and others of which I won’t but would be happy to talk about later.
+## The prompt:
+
+> **Discuss three ways in which the nature of academic scholarship is changing and identify key services for each that Penn Libraries should offer in support of researchers’ evolving needs.**
+
+
+Thank you so much for being here today. My talk today is going to address the question I was asked, but before I get started, I will spend a few moments talking about who I am and what I’m bringing to this question. Part of what I bring is my love for Philly. This is my home, and the city I love. As many of you know I worked here at Penn from 2002-2008, and I've been at Haverford for the past 7 and a half years. For the first few years at Haverford, I was the Coordinator for Research, Instruction, and Outreach.  After we brought in an awesome new library director and she led us through a big re-organization, I moved into my current role as Coordinator for Digital Scholarship and Services.
+
+In that role, I’ve been working with my colleagues to build a Digital Scholarship program. At Haverford, we define digital scholarship as library partnerships with faculty and students to create scholarship in new forms. Building this program means we’ve built the human and technical infrastructure in the library to make digital scholarship as manageable and sustainable as we think it can reasonably be, understanding that learning and creating scholarship is a creative, messy, and iterative process. In practical terms, our work involves engagements with faculty and students in the curriculum, on larger scale research projects, and fellowships, internships and jobs for students. Over the past few years, the digital scholarship group has been involved in dozens of courses, ranging from 20 minute drop-ins to courses where DS labs were built into the weekly schedule and integral to the course outline. We’re now in our second year running a fellowship program for students interested in a sustained DS learning opportunity, and we recently hired a drexel libary school intern to help run that program. We’re also partnering with faculty on some big and exciting projects, some of which I’ll mention in this talk, and others of which I won’t but would be happy to talk about later.
 
 The team in Digital Scholarship at Haverford includes me and my colleague Mike fulltime, and then two people who don’t report to me but who work closely with us, a metadata specialist and our web coordinator (and Music Librarian). As part of the library, our group works really closely with our colleagues in special collections and with the subject librarians on nearly all of our projects. And truly, when describing the team, the key to our success is the 12 student workers we employ. Or, it’s 12 this semester, and an overlapping 12 over the summer. Our students tend to stay with us throughout their college career, some of them joining us in summers, and they develop considerable expertise in the tools, approaches and strategies we employ in our work.
 
@@ -19,54 +26,61 @@ In inviting me for this interview, I was asked to:
 
 > **Discuss three ways in which the nature of academic scholarship is changing and identify key services for each that Penn Libraries should offer in support of researchers’ evolving needs.**
 
-I’m going to talk about changes in the following areas.
+
+When we think about developing new services, I think the most important lesson I’ve learned at Haverford is that the nature of our library is co-created by faculty, librarians, and students, as well as by administrators. So I think the best way to build library programs is by instituting strong processes to engage in that co-creation, and to accept that things will keep changing. This means building from where you are, moving through stages, and being flexible in working with collaborators. With that in mind, I’m going to talk about changes in the following areas.
 
 1. Data is everywhere
 1. Multimodal scholarship
 1. Interdisciplinary and community engaged scholarship
 
-Truly, these three are all closely connected to one another and so some of the recommendations I'll make will overlap across these three. But, I think these shifts in scholarship are different enough to imply a few distinct activities within libraries.
-
-The most important lesson I’ve learned at Haverford, and the approach I would recommend at Penn for developing new services and infrastructure is to build from where you are, to move through stages, and to be flexible in working with collaborators. The nature of our library is co-created by faculty, librarians, undergraduate and graduate students, as well as by administrators. So I think the best way to build the library is by instituting strong processes to engage in that co-creation, and to accept that things will keep changing. With that in mind, let's begin with the first shift I've identified.
+Truly, these three changes are all closely connected to one another and so some of the recommendations I'll make will overlap across these three areas. But, I think these shifts in scholarship are different enough to imply a few distinct activities within libraries. So on to the first:
 
 ## Data is everywhere
 What do I mean by data?
-Data means a lot of things, and it’s been around for a long time before there were computers. But these days, data, broadly, ends up meaning stuff that can be processed by computers. And the range of things that can be processed by computers keeps growing. People have access to more and simpler computational power, and we’re learning lots of new ways of understand things when we approach things that can be computed.
+Data means a lot of things, and it’s been around for a long time before there were computers. But these days, data, broadly, ends up meaning stuff that can be processed by computers. And the range of things that can be processed by computers keeps growing. People have access to more and simpler computational power, and we’re learning lots of new ways to understand things when we approach them with computers.
 
-When I say that data is everywhere, I mean that more and more of the objects of study we encounter are machine-readable. So, works of literature can be considered data when they’re processed through topic modeling. Computers can operate on temporal data, on geospatial data. Films, and objects in space can be modeled with computers to create data that we can learn from in new ways.
+When I say that data is everywhere, I mean that more and more of our objects of study are machine-readable. So, works of literature can be considered data when they’re processed through topic modeling. Computers can operate on temporal data, and on geospatial data, that is, they can help us understand things in terms of time and space at various scales. Films and objects in space can be modeled with computers to create data that we can learn from in new ways. I don't want to imply that this data is all raw or without meaning, or that it is not part of other systems and structures. But this data explosion in the academy certainly is happening, and it is worth contending with.
 
-What does this rise in data imply about library activities? So, what should libraries do about this plethora of data, and the creep of data thinking throughout the academy? Here are a few things. First:
-
+What does this rise in data imply about library activities? What should libraries do about this plethora of data, and the creep of data thinking throughout the academy? Here are a few things. First:
 
 # Libraries should: Approach library collections as data
 So, in terms of ways we can respond to the rise of data in libraries, there are a few. Starting with the notion of library collections as data.
 
 This can mean a lot of things.
-Understanding that there will be researchers who use our collections not just to learn from each item one at a time. But who seek tofind out what they can learn if they look across whole collections at once.
-So certainly when we buy or lease materials for our collections,  we need to ensure rights to the material as data.
-And I love openn. It’s an awesome way to provide access to the amazing collection of digitized images of collection materials, and using Openn allows researchers who want to address those images in bulk, and re-use them, and re-imagine them in awesome ways.
+First, it means we understand that there will be researchers who use our collections not just to learn from each item one at a time but who seek to find out what they can learn if they look across whole collections at once. Understanding this, when we buy or lease materials to add to our collections, we need to ensure that our community also has the rights to use the material as data.
 
- There are other libraries providing access to their digital collections as data, in the cases of UNC and Indiana, above, theypre providing text data for bulk download, in various forms. And on the bottom is the recently released open collections api from UBC which is gorgeous.
-I don’t have a slide about it but I want to point out that joining Hathi Trust and dpla, both of which provide computational access to data or metadata as download able is another important step in approaching library collections as data.
+Beyond our licensing an purchasing agreements, libraries should make it easy for people to engage with our collections as data. I love [OPenn](http://openn.library.upenn.edu/). It’s an awesome way to provide access to the amazing collection of digitized images of collection materials, and using OPenn allows researchers who want to address those images and their metadata in bulk to re-use them and re-imagine them in exciting ways.
 
-# Libraries should: Explose library metadata as data
-So there’s library collections as data, and then, there’s the metadata about library collections as data. We can learn a lot from our metadata, and opening It up for analysis using whatever tools work is a exciting.
+There are other libraries who provide access to digital collections as data. Here I'll call out the [DocSouthData project at UNC](http://docsouth.unc.edu/docsouthdata/), [Indiana University Libraries' Digital Collections on Github](https://github.com/iulibdcs), and the recently released [open collections api from UBC](https://open.library.ubc.ca/research) as three awesome examples. I'd actually love to spend a lot more time talking about these three different models, and the pros and cons of each, but I'll keep going for now as there is a lot more to discuss.
 
-# Libraries should: Study our own data
-Library innovation lab at Harvard and a few other experiments go to the next place. I've given a few examples of ways that we can see collections as data. But the real trick is to treat them as data. Experiment. At Harvard Law school, they've got a team. Haverford doesn't have that. But we have undergraduates who are smart and creative.
+It's also important to point out that joining [Hathi Trust](https://www.hathitrust.org/htrc) and [DPLA](http://dp.la/info/developers/download/), both of which provide bulk or api access to data or metadata, is another important step in approaching library collections as data.
 
-Here’s a project where we decided that, for this collection, rather than creating images of pages of a 19th century superintendants day book, we’d research using the collection and create data as we go.
+# Libraries should: Expose library metadata as data
+The mention of Hathi Trust and DPLA brings me a little deeper into the world of exposing library collections as data, and that's just a little side trip to talk about making sure that we [expose the metadata](http://catalogdata.library.illinois.edu/) about [library collections](http://library.harvard.edu/open-metadata) as data. We can learn a lot from our metadata, and opening it up for analysis using a whole host of tools and methods is really exciting to me. Our metadata provides a record of what we have valued over the years of our libraries. It can help us understand our own histories, what is present and what is absent in our collections, as well as how we've been describing the scholarship we provide access to. And once we've gotten into exposing our collections and metadata as data, it takes me to my next point, which is that...
 
-So, rather than paying undergraduates to create images of these superintendents day book we hired two students:
-Abby Corcoran, a history major and Lindsay Silver, an English major with a CS minor to get to know the colleciton and help us learn what we could if we thought of them as data. As Abby spent the summer researching and writing about the early days of the asylum, she was gathering lists of names of patients, of info on them, etc. And Lindsat created a web portal where the data that Abby was gathering, and other views of the collection as data could be explored.
+# Libraries should: Study our own collections as data
+I mean this not just as a way of developing services or collections, though that's important. But as a way of engaging in scholarship that reflects on our own institutions, on what it means to make these collections, and what it means to make them digitally available. There are some really [good](http://spatialinformationdesignlab.org/project_sites/library/catalog.html) [examples](http://librarylab.law.harvard.edu/projects) of schools who are doing this. At Haverford, we've been thinking a lot about what we can learn from our collections when we use them as data. We've also been talking a lot about about what it means to make a collection meaningfully digital. I want to pause here to talk about one project we worked on last summer, and which will continue for the next few summers, where we wanted student to learn from a collection, and produce digital information, but we weren't sure that creating images of the collection was going to be the most valuable way to do that.
+The Haverford Libraries recently received records from the Friends Hospital, one of the earliest Mental Health Institutions in the US, opened in 1819.
 
+![Quakers and Mental Health homepage](/assets/images/qmh-webpage.jpg)
 
-So thinking of library collections as data can mean changing negotiations with vendors,  providing access to digitized collections in formats that are useful computational reuse, using our metadata as data,  and experimenting with the data we create
+With support from the Scattergood Foundation, we decided, rather than paying undergraduates to create images of these superintendents day book we hired two students: Abby Corcoran, a history major and Lindsay Silver, an English major with a CS minor, to get to know the collection and help us learn what we could if we thought of them as data. As Abby spent the summer researching and writing about the early days of the asylum, she was gathering lists of names of patients, of info on them, etc. And Lindsay created a web portal where the data that Abby was gathering, and other views of the collection as data could be explored.
+
+![Patient Data as Charts](/assets/images/qmh-patient-data-viz.jpg)
+
+You can see that Abby and Lindsay took the notes of the Hospital staff, and regularized the way they understood patients at the time, with columns for the length of insanity, their gender, the weekly rate they paid, etc, in keeping with the hospital staff's concern for only taking patients who were, in their words "curable".
+
+![Patient Data as Table](/assets/images/qmh-patient-data-table.jpg)
+
+Again, this way of providing "access" to collections is one I hope to keep investigating, as I think it challenges us and our students to think through what how we can best use computational and non-computational ways of understanding collections.
+
+So thinking of library collections as data can mean changing the ways we negotiate with vendors,  providing access to digitized collections in formats that are useful for computational reuse, using our own metadata as data, and experimenting with the data we create to make new scholarship. I believe it is through this experimentation with our own data that we can create the expertise and infrastructure to continue being great partners to our faculty and research colleagues as they are also experimenting with data-first approaches to their own research, which leads to the next area.
 
 # Libraries should: Support researcher data
-Of course library collections are not remotely the only kind of data that we should be contending with. As so many disciplines engage with data in its various forms, researchers produce their own data, and we need to continue to expand the kinds of support we can provide for that data as well.
-Penn is already doing that by providing support for the creation of Data Management Plans, and by storing data in the insitutional repository.
-The DMPTools thing seems awesome, and I wouldn’t recommend our method for a scale like Penn, at all! But at Haverford, our grants office tells every faculty member writing a proposal for funding that requires a dmp to reach out to me, and the ensuing conversations have really helped me. I’ve worked with faculty in chemistry, psychology, political science, linguistics and biology, and it’s really been a great opportunity for me to gain an understanding of their needs. So I think we need to continue developing these kinds of services.
+Library collections are not remotely the only kind of data that we should be contending with. As so many disciplines engage with data in its various forms, researchers produce their own data, and we need to continue to expand the kinds of support we can provide for that data as well.
+
+Penn is already doing that by providing support for the creation of Data Management Plans, and by storing data in the institutional repository.
+The DMPTools option seems very useful, and I wouldn’t recommend our method for a scale like Penn, at all! At Haverford, our grants office tells every faculty member writing a proposal for funding that requires a data management plan to reach out to me, and the ensuing conversations have really helped me. I’ve worked with faculty in chemistry, psychology, political science, linguistics and biology, and it’s really been a great opportunity for me to gain an understanding of their needs. So I think we need to continue developing these kinds of services.
 
 But before leaving behind the notion of researcher data, I want to point to a project that I haven’t really worked on, but that I think is so fantastic.
 This is a site for Project Tier, which was developed by my colleague Norm Medeiros in the library and an econ faculty member, Richard Ball, and funded by the Sloan Foundation and others.
@@ -88,6 +102,15 @@ Make allowances in our repositories for multimodal scholarship. Digital scholars
 This is a video that is currently projected in the gallery in the Magill Library at Haverford to go along with an exhibit  designed by Ashley Foster’s freshman writing course. The course takes on the art and social action during of modernist artists during the spanish civil war, and connects them to quaker peace testimonies, posters , all of which were advocating for a positive peace.
 
 What you’re seeing here is just a screen grab of the students word as they created a network of interconnected annotations across the poetry of Muriel Rukyeser, Picasso’s Guernica, Virginia Woolf and Langston Hughes.
+Video here.
+here's the video..
+
+
+<video width="640" height="420" controls>
+ <source src="/assets/peace-testimonies-clip.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 This was a freshman writing class that really grew out of a lot of collaborations.
 
