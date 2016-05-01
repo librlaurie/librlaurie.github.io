@@ -6,7 +6,7 @@ categories: talks
 ---
 ### Penn Libraries Job Talk
 
-What follows is a very lightly edited version of the talk I gave as part of my interview for the job of Assistant Director for Digital Scholarship on December 4, 2015. I had a lot of slides, and most of them aren't here (there are links where there were screenshots, instead). Also, I had a bunch of jokes in the talk. It turns out I'm very corny. I couldn't keep them in the written version either.
+What follows is a very lightly edited version of the talk I gave as part of my interview for the job of Assistant Director for Digital Scholarship on December 4, 2015. I had a lot of slides, most of which are screenshots, which are here represented as links. Also, I had a bunch of jokes in the talk. It turns out I'm very corny. I couldn't keep those in the written version either.
 
 ## The prompt:
 
@@ -15,9 +15,9 @@ What follows is a very lightly edited version of the talk I gave as part of my i
 
 Thank you so much for being here today. My talk today is going to address the question I was asked, but before I get started, I will spend a few moments talking about who I am and what I’m bringing to this question. Part of what I bring is my love for Philly. This is my home, and the city I love. As many of you know I worked here at Penn from 2002-2008, and I've been at Haverford for the past 7 and a half years. For the first few years at Haverford, I was the Coordinator for Research, Instruction, and Outreach.  After we brought in an awesome new library director and she led us through a big re-organization, I moved into my current role as Coordinator for Digital Scholarship and Services.
 
-In that role, I’ve been working with my colleagues to build a Digital Scholarship program. At Haverford, we define digital scholarship as library partnerships with faculty and students to create scholarship in new forms. Building this program means we’ve built the human and technical infrastructure in the library to make digital scholarship as manageable and sustainable as we think it can reasonably be, understanding that learning and creating scholarship is a creative, messy, and iterative process. In practical terms, our work involves engagements with faculty and students in the curriculum, on larger scale research projects, and fellowships, internships and jobs for students. Over the past few years, the digital scholarship group has been involved in dozens of courses, ranging from 20 minute drop-ins to courses where DS labs were built into the weekly schedule and integral to the course outline. We’re now in our second year running a fellowship program for students interested in a sustained DS learning opportunity, and we recently hired a drexel libary school intern to help run that program. We’re also partnering with faculty on some big and exciting projects, some of which I’ll mention in this talk, and others of which I won’t but would be happy to talk about later.
+In that role, I’ve been working with my colleagues to build a Digital Scholarship program. At Haverford, we define digital scholarship as library partnerships with faculty and students to create scholarship in new forms. Building this program means we’ve built the human and technical infrastructure in the library to make digital scholarship as manageable and sustainable as we think it can reasonably be, understanding that learning and creating scholarship is a creative, messy, and iterative process. In practical terms, our work involves engagements with faculty and students in the curriculum, on larger scale research projects, and fellowships, internships and jobs for students. Over the past few years, the digital scholarship group has been involved in dozens of courses, ranging from 20 minute drop-ins to courses where DS labs were built into the weekly schedule and integral to the course outline. We’re now in our second year running a fellowship program for students interested in a sustained DS learning opportunity, and we recently hired a Drexel Library School intern to help run that program. We’re also partnering with faculty on some big and exciting projects, some of which I’ll mention in this talk, and others of which I won’t, but would be happy to talk about later.
 
-The team in Digital Scholarship at Haverford includes me and my colleague Mike fulltime, and then two people who don’t report to me but who work closely with us, a metadata specialist and our web coordinator (and Music Librarian). As part of the library, our group works really closely with our colleagues in special collections and with the subject librarians on nearly all of our projects. And truly, when describing the team, the key to our success is the 12 student workers we employ. Or, it’s 12 this semester, and an overlapping 12 over the summer. Our students tend to stay with us throughout their college career, some of them joining us in summers, and they develop considerable expertise in the tools, approaches and strategies we employ in our work.
+The team in Digital Scholarship at Haverford includes me and my colleague Mike full-time, and then two people who don’t report to me but who work closely with us, a metadata specialist and our web coordinator (and Music Librarian). As part of the library, our group works really closely with our colleagues in special collections and with the subject librarians on nearly all of our projects. And truly, when describing the team, the key to our success is the 12 student workers we employ. Or, it’s 12 this semester, and an overlapping 12 over the summer. Our students tend to stay with us throughout their college career, some of them joining us in summers, and they develop considerable expertise in the tools, approaches and strategies we employ in our work.
 
 So, that's the work I've been doing, and I'll return to aspects of it during the rest of this talk.
 
@@ -74,81 +74,65 @@ You can see that Abby and Lindsay took the notes of the Hospital staff, and regu
 
 Again, this way of providing "access" to collections is one I hope to keep investigating, as I think it challenges us and our students to think through what how we can best use computational and non-computational ways of understanding collections.
 
-So thinking of library collections as data can mean changing the ways we negotiate with vendors,  providing access to digitized collections in formats that are useful for computational reuse, using our own metadata as data, and experimenting with the data we create to make new scholarship. I believe it is through this experimentation with our own data that we can create the expertise and infrastructure to continue being great partners to our faculty and research colleagues as they are also experimenting with data-first approaches to their own research, which leads to the next area.
+So thinking of library collections as data can mean changing the ways we negotiate with vendors, providing access to digitized collections in formats that are useful for computational reuse, using our own metadata as data, and experimenting with the data we create to make new scholarship. I believe it is through this experimentation with our own data that we can create the expertise and infrastructure to continue being great partners to our faculty and research colleagues as they are also experimenting with data-first approaches to their own research, which leads to the next area.
 
 # Libraries should: Support researcher data
-Library collections are not remotely the only kind of data that we should be contending with. As so many disciplines engage with data in its various forms, researchers produce their own data, and we need to continue to expand the kinds of support we can provide for that data as well.
+Library collections are not remotely the only kind of data that we should be contending with. As nearly every discipline engages with data in its various forms, researchers produce their own data, and we in libraries need to continue to expand the kinds of support we can provide for the production, storage, and publication of those data as well.
 
-Penn is already doing that by providing support for the creation of Data Management Plans, and by storing data in the institutional repository.
-The DMPTools option seems very useful, and I wouldn’t recommend our method for a scale like Penn, at all! At Haverford, our grants office tells every faculty member writing a proposal for funding that requires a data management plan to reach out to me, and the ensuing conversations have really helped me. I’ve worked with faculty in chemistry, psychology, political science, linguistics and biology, and it’s really been a great opportunity for me to gain an understanding of their needs. So I think we need to continue developing these kinds of services.
+Penn is already beginning this process by providing support for the creation of [Data Management Plans](http://guides.library.upenn.edu/dmp), and by storing data in the [institutional repository](http://repository.upenn.edu/mead/). Obviously, Haverford is a whole lot smaller than Penn, which means that things can be done a little more personally. Our grants office tells every faculty member writing a proposal for funding that requires a data management plan to reach out to me, and the ensuing conversations have really helped me and our faculty understand data management planning. I’ve worked with faculty in chemistry, psychology, political science, linguistics and biology, and the conversations have really given me a different understanding of how our repositories might look in the future. The kind of reproducibility that these data management plans are designed to facilitate will change what we think of as a publication, and as scholarship. So I'm very excited about thinking through the changes to our services that are coming.
 
 But before leaving behind the notion of researcher data, I want to point to a project that I haven’t really worked on, but that I think is so fantastic.
-This is a site for Project Tier, which was developed by my colleague Norm Medeiros in the library and an econ faculty member, Richard Ball, and funded by the Sloan Foundation and others.
-They’ve developed a protocol for student projects, beginning across undergrad institutions but they’re expanding into grad schools,  so  that when they write a paper that makes claims of an empirical nature, that they turn in the paper and the data and the transformations and analysis files. Kind of a pipeline approach to reproducable empirical claims.
+This is [Project Tier](https://www.haverford.edu/project-tier/about), which was developed by my colleague Norm Medeiros in the library and Richard Ball, a faculty member in the Haverford Economics Department, and funded by the Sloan Foundation and others.
+
+They’ve developed a protocol for empirical papers that aims for "complete reproducibility" and have been using the protocol beginning at Haverford, and now moving across undergrad institutions. I believe they’re expanding into grad schools, as well. Using the protocol, when a student writes a paper that makes claims of an empirical nature, they turn in the paper and the data and the transformations and analysis files, as well as some metadata. I think this project and ones like it are absolutely something to keep an eye on. Of course, we're about to turn to multimodal scholarship, and will be leaving behind the notion of reproducibility for a while.
 
 ## Multimodal Scholarship
-By multimodal scholarship, I’m describing the whole range of activities that engage with research or presentation methods that cross format platforms. This might mean a book with an accompanying dataset and website. It might mean a network graph showing participants in a poetry group, it might mean a representation of the topics that emerge from computational approaches to english literature. And it might be a website describing and encoding the underrepresented work of women writiers. It might be a huge range of other things too.
+By multimodal scholarship, I’m describing the whole range of activities that engage with research or presentation methods that cross format platforms. This might mean a book with an accompanying dataset and website. It might mean a network graph showing participants in a poetry group, it might mean a representation of the topics that emerge from computational approaches to english literature. And it might be a website describing and encoding the underrepresented work of women writers. It might be a huge range of other things too.
 
-# Libraries should: Make sure our repositories can accept and support multimodal scholarship
+# Libraries should: Make sure we can accept into our collections, and support the creation of multimodal scholarship
 
-So, we all know that digital preservation in general is really hard. Saving things in digital forms is extremely difficult. But, we also know that we need to keep working at it
+So, what should libraries do about the emergence of multimodal scholarship? I have in my notes: make a joke about how hard it is to store and preserve multimodal scholarship. But I could not come up with one. It is just very hard.
+Digital preservation in general is really hard. Saving things in digital forms turns out to be extremely difficult. File formats change, hardware and software change, and all of these things matter in the preservation of digital data. But multimodal scholarship is not just digital data. Interfaces matter. They always matter, but especially when the work is explicitly multimodal. So this is a hard problem. And one we're going to need to keep working on. It means a lot of conversations as we move through research about what needs to be saved, what can be saved, what the tradeoffs are, and what part of the meaning of our work should last into the future.
 
-Data + Interface = Digital Scholarship
+So yes, we need to make allowances in our repositories for multimodal scholarship. And we have to ask questions about the losses and gains in separating data from interface as false as those choices might be in some cases?
 
-But Digital sholarship isn’t just data, it’s also interface, processing, it’s sometimes tied to various tools like browsers or javascript libraries.  I have in my notes: make a joke about how hard it is to store and preserve digital scholarship. But I could not come up with one.
-
-Make allowances in our repositories for multimodal scholarship. Digital scholarship is more than data. And so for each expression of multimodal scholarship, we have to think about what can be saved. Should we think about emulation? Can we separate data from interface and store the data?
-
-This is a video that is currently projected in the gallery in the Magill Library at Haverford to go along with an exhibit  designed by Ashley Foster’s freshman writing course. The course takes on the art and social action during of modernist artists during the spanish civil war, and connects them to quaker peace testimonies, posters , all of which were advocating for a positive peace.
-
-What you’re seeing here is just a screen grab of the students word as they created a network of interconnected annotations across the poetry of Muriel Rukyeser, Picasso’s Guernica, Virginia Woolf and Langston Hughes.
-Video here.
-here's the video..
-
-
-<video width="640" height="420" controls>
+<video width="100%" height="100%" controls autoplay>
  <source src="/assets/peace-testimonies-clip.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
+[Dear Reader: please play the video while you read this.] I'm now playing a video that is currently projected on one of the gallery walls in the Magill Library at Haverford as part of an exhibit designed by Ashley Foster’s freshman writing course. The course takes on the art and social action of modernist artists during the Spanish civil war, and connects them to quaker peace testimonies, posters, and letters, all of which were advocating for a positive peace.
 
-This was a freshman writing class that really grew out of a lot of collaborations.
+The students used Neatline to create a network of interconnected annotations across the poetry of Muriel Rukyeser, Picasso’s Guernica, Virginia Woolf and Langston Hughes, with web assignments running throughout the course, asking them to make connections between works as material links, and to engage Virginia Woolf's scrapbooks and her Three Guineas as connected to the kinds of sources she drew from and influenced. Preserving these connections as website will be difficult. And so we made these videos, in part, to capture the experience of using a site whose connections are not necessarily the ones one might expect of a webpage.
 
-Designing this is a constant balance between the technical work and the needs of the scholarship.  The students in the course worked on the site, but so did my team of student workers, and we all spent tons of time working together and refining and designing. Which brings me my next response to the shift towards multimodal sholarship
+This was a freshman writing class that really grew out of a lot of collaborations that extended across students as students, as workers, the professor as editor, as teacher, librarians from my group, from special collections, with all of us involved in making exhibits, in figuring out projections, in scanning books, and printing labels, and on and on.
+
+Designing this involved a constant interplay between the technical work and the needs of the scholarship. The students in the course worked on the site, but so did my team of student workers, and we all spent tons of time working together and refining and designing. Which brings me my next response to the shift towards multimodal scholarship
 
 # Libraries should: Envision the library as a productive space
 
-Entire life cycle from inspiration to preservation. Library as productive space.
-In practice this means developing a flexible technical architecture that allows for scholarship to both dreamed up, created, and stored. And it means developing colleagues in the library whose disciplinary expertise extends across text, image, webpage, dataset, etc.
+Libraries are, should be, and always have been involved in the entire life cycle of scholarly production, from inspiration to preservation. We should make sure that the ways we imagine our work honor that, by ensuring that our libraries can be sites for the creation of new knowledge, and not just for its storage and dissemination. In practice this means developing a flexible technical architecture that allows for scholarship to both dreamed up, created, and stored. And it means developing colleagues in the library whose disciplinary expertise extends across text, image, webpage, dataset, and interface.
 
-Transforming technical infrastructure takes time and care. That’s also true of transforming a library. But here I’m talking about
+**Transforming technical infrastructure** takes time and care. That’s also true of transforming a library. But experimenting, taking some risks, and growing together with our faculty and students is, I believe, the only responsible way for us to grow our capacity.
 
-Experimenting, taking some risks, and asking our faculty and students to grow with us was, I think, the only responsible way for us to grow our capacity.
+At Haverford, when we started the Digital Scholarship program, there were a few projects that the library had committed to. As we began to take on more, our friends in IT were understandably hesitant to let us have access to campus servers, as we didn’t really know how to use them or keep them safe. So, we started on Amazon cloud, and did what we could. We asked for their advice, and we took their advice when they offered it. But we were extremely committed to keeping the scholarly question at the center of each of our projects, and making sure that the technology was following from that. At this point, we have a great collaboration with them and 7 virtual machines that they help us maintain. We have shared understandings about how we'll grow together. That said, we still have our amazon account, so that we can be free to experiment and do stupid things, and make mistakes.
 
+Envisioning the library as a productive space also means making sure it is productive for librarians. There is absolutely a professional development aspect of it.  I will point here to the work that’s been done at [UNC](http://multimodallibrarians.web.unc.edu/) and [Columbia](https://developinglibrarian.org/) where librarians took two different approaches to learning tools for multimodal scholarship.
 
-When we started, there were a few projects that the library had committed to, and our friends in IT were understandably hesitant to let us have access to campus servers, as we didn’t really know how to use them or keep them safe. So, we started on Amazon cloud, and did what we could.  At this point, we have a great collaboration with them and 7 virtual machines that they help us maintain.
-
-Professional development aspect of it.  I point to the work that’s been done at UNC and Columbia where librarians took two different approaches to learning tools for multimedial scholarship.
-
-At Haverford, we spend also did a summer workshop series for librarians. We actually spent more time in ours talking about approaches that worked and didn’t work with incoporating tools into courses, but that’s just the nature of Haverford. However it’s done, providing ways for librarians with subject experience to explore the multimodal approaches to scholarship that are emerging in their field is also a really important aspect of expanding our infrastructure.
+At Haverford, we also did a summer workshop series for librarians, covering things like mapping, visualization, project planning etc. We actually spent more time in ours talking about approaches that worked and didn’t work with incorporating tools into courses, but that’s just the nature of Haverford. However it’s done, providing ways for librarians with subject experience to explore the multimodal approaches to scholarship that are emerging in their field is an incredibly important aspect of expanding our infrastructure, and one I think we're all still working on. As we think about what librarians need to learn, we can turn to the third shift in scholarship that I want to call out, which is really closely aligned with the first to.
 
 ## Interdisciplinary and community engaged scholarship
-All of these topics are huge, and this is the tip of the iceberg.
-
-This is really closely connected to data and to the possibility for multimodal scholarship. This multiplicity of forms of representations. There are shareable ways. There are also
-Disciplines are borrowing approaches and objects of study from one another. So . The humanities have important work to do in offering approaches to computational studies im thinking about how algorothms have meankjg. And of course methods from computational studies in the humanities
-I think this is happening for a few reasons
-
-We do this work to create knowledge for the world. And we have all of these tools that make that possible. It just feels right to share things earlier and more widely to a lot of people.  This kind of sharing leads to more borrowing and a more open process.
+Here, I want to talk about how very frequently disciplines are borrowing approaches and objects of study from one another these days. The humanities have important work to do in offering approaches to computational studies and in thinking about how algorithms embed various and complex layers of meaning into our world. And of course methods from computational studies are making their ways into the humanities.
+I think this is happening for a few reasons. Partially because it feels right. We do this work to create knowledge for the world. And we have all of these tools that make that possible. It just feels right to share things earlier and more widely to a lot of people. This kind of sharing leads to more borrowing and a more open process.
 
 Borrowing methods across disciplines, sharing objects of study across disciplines and engaging with communities we study and serve are parts of my work I’m really interested in. In part because I think that deep inderdisciplinary and multimodal scholarship can challenge us to understanding that the expertise to make sense of a problem might not live in a single mind, but be arrived at together in a group.
 
 # Libraries should: Create and collect repurposable scholarship, when possible
 
-A lot of the work of thinking of materials as data can help with this.  Part of what librarians can do is make methods and processes interdisciplinary.
+I'm not going to say more about this as a lot of the work of thinking of materials as data can help with this.  Part of what librarians can do is make methods and processes interdisciplinary, as well.
 
-Libraries should: Make library expertise and resources interdisciplinary and community engaged
-Thinking about our own methods, archival methods, digital preservation methods, metadata creation as interdicsiplinary. As available for the pot of scholarly creation. Of course, we should be careful to make sure that the projects we work on expand our infrastructure, our skill sets, help us make more projects sustainable. But, if everyone is getting in on the party of using our skillsets on other peoples objects of studies, let’s join the party.
+# Libraries should: Make library expertise and resources interdisciplinary and community engaged
+Thinking about our own methods, archival methods, digital preservation methods, metadata creation as interdicsiplinary. By that I mean, making them objects of study, and making our methods available for the pot of scholarly creation. Of course, we should be careful to make sure that the projects we work on expand our infrastructure, our skill sets, help us make more projects sustainable. But, if everyone is getting in on the party of using our skillsets on other peoples objects of studies, let’s join the party. (I'm thinking here about how it feels like the whole world keeps discovering that archives are crazy interesting like they just made it up and there isn't a whole field in on this)
 
 At Haverford, we created a digital scholarship fellowship program to introduce students to the methods of digital scholarship. For our pilot year, we decided to test out these skills on a public art and research project co-curated by a Haverford faculty member, Paul Farber, a curatorial assistant at RISD, and Ken Lum, of the Fine Arts department here at Penn.. Lead into Monument Lab as an example of making our
 As the students in our digital scholarship fellows program went through the year, with every skill or approach they learned, they use monument lab as the project. Here are the students beginning their exercise to think through interface design for the monument lab site.
@@ -168,42 +152,16 @@ The team includes a linguist at Haverford, one at University of Florida, an ethn
 
 I want to illustrate what I think is do-able with this cool project.
 
+![Ticha Arte Page](/assets/images/ticha-arte-page.gif)
+
 ticha slides
 
 
-We’re nearly done. I’ve gone through three changes, and talked about how I think libraries should engage with these changes. But before I stop talking and ask to hear from you, I want to point to a bunch of changes that are affecting academic institutions and scholarship that I haven’t talked about. First, I haven’t really spoken directly to open access, and I’d love to.
+We’re nearly done. I’ve gone through three changes, and talked about how I think libraries should engage with these changes. But before I stop talking and ask to hear from you, I want to point to a bunch of changes that are affecting academic institutions and scholarship that I haven’t talked about. First, I haven’t really spoken directly to open access, and I’d love to. I haven't talked about stresses on the publishing industry or the host of pressures on higher education. I also think we need to frame our work in the context of social justice, in the face of this environmental emergency, in light of #blacklivesmatter and the huge refugee crisis going on in the world.
 
-
-
-Stresses on the publishing industry
-
-Pressures on higher education
-
-Social justice
-
-Environmental emergency
-
-And then there are broader issues. There’s a huge refugee crises going on right now.
-
-I don’t mean to end that on a downer at all, though!
-
-So my prescription fo all of the changes in the first part and these bigger ones. is
+So my prescription for all of the changes in the first part and all of these bigger ones is this.
 
 # Be the library
-The world has always been changing and there have always been huge, massive problems with it. And libraries have been around and changing with technologies for thousands of years. We get to work in an institution, libraries, that is devoted to being an environment where learning comes first. Where people come to change course in their thinking, to develop new methods, to find things out. So, I know I’m kind of ending with a little much.
-But, thinking about the changes to academic scholarship that directly affect us, I t
+The world has always been changing and there have always been huge, massive problems with it. And libraries have been around and changing with technologies for thousands of years. We get to work in an institution, the library, that is devoted to being an environment where learning comes first. Where people come to change course in their thinking, to develop new methods, to find things out. So, when thinking about the changes to academic scholarship that directly affect us, I think we should make sure that our work is iterative, collaborative, and that we focus on building human capacity while building technical capacity. Our primary goal should be to focus on our values, of learning, of enabling learning, of creating great scholarship and of being great collaborators. We grow together with scholarship and with the world in which we live.
 
-Iterative
-
-Collaborative
-
-Focus on building human capacity while building technical capacity
-
-Focus on our values, of learning, of enabling learning, of creating great scholarship
-
-
-Be great collaborators. This is our role. We grow together with scholarship.
-
-I just spent a half hour talking about things that libraries should do. ButI bring some ideas about process. But the answers are in this room. They’re not all in my head. Libraries already know how to do really great things. It has to start with the expertise and the values we bring already.
-
-I think the most important thing is not what things we should do but what approach we should take to our work and our communities.
+So, basically I think the most important thing is not what things we should do, or what services we should offer, but what approach we should take to our work and to our communities. Thank you so much for your time, and I look forward to questions and conversations as we continue.
