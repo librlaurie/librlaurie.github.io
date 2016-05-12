@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I truly will move this site to jekyll soon. In the mean time, go to [laurieallen.org](http://www.laurieallen.org)
+I am in the process of moving my website to this URL, and figuring out what content will come along.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+In the mean time, go to [laurieallen.org](http://www.laurieallen.org) for information about me.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Thanks for coming by, and sorry for the inconvenience.
