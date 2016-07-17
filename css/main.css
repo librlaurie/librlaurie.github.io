@@ -1,0 +1,46 @@
+.masthead {
+    color:#FFFFFF;
+    background-image:url("/assets/images/northwest-plan-outline-2.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:300px;
+}
+
+a {
+  color:#134200;
+}
+
+.img-square
+{
+    height: 250px;
+}
+
+
+/** Icons */
+.icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
+.icon > svg path { fill: #6e6563; }
+
+/** Site footer */
+.site-footer { border-top: 1px solid #d1cdcc; padding: 1.5em 0; }
+
+.footer-heading { font-size: 18px; margin-bottom: 0.75em; }
+
+.contact-list, .social-media-list { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper { font-size: 15px; color: #6e6563; margin-left: -0.75em; }
+
+.footer-col { float: left; margin-bottom: 0.75em; padding-left: 0.75em; }
+
+.footer-col-1 { width: -webkit-calc(35% - (1.5em / 2)); width: calc(35% - (1.5em / 2)); }
+
+.footer-col-2 { width: -webkit-calc(20% - (1.5em / 2)); width: calc(20% - (1.5em / 2)); }
+
+.footer-col-3 { width: -webkit-calc(45% - (1.5em / 2)); width: calc(45% - (1.5em / 2)); }
+
+/** Posts */
+.post-list { margin-left: 0; list-style: none; }
+.post-list > li { margin-bottom: 1.5em; }
+
+.post-meta { font-size: 1.05em; color: #6e6563; }
+
+.post-link { display: block; font-size: 24px; }
