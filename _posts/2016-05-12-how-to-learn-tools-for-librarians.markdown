@@ -13,7 +13,7 @@ But practicing librarians are not required to get through all the material in a 
 
 Many of the digital scholarship projects that emerge involve digitally curated collections, or digital exhibits, or explorations (maps, visualizations, networks) of digital items. There are many fascinating ways to engage in DH or Digital Scholarship that don’t take this approach, but I find it really helpful for learning. I have not included links or how to’s in here. Instead, it's just advice.
 
-### Make a play collection (or borrow someone else’s)
+## Make a play collection (or borrow someone else’s)
 1. **Pick** a sample topic and/or collection. It’s very helpful if you, personally, find the content interesting. Perhaps choose a collection your library has already digitized. It doesn’t need to be library materials, but that’s handy. It should include digital files (images, texts, videos, whatever) that you would like to explore.  
 1. **Gather** the digital files for each item (this might mean taking photos of them on your phone, or downloading them from the internet, or otherwise getting them)
 1. **Make a list** of the items to be included in your play collection. A spreadsheet (google doc) will work well for this. It's ok if you're working with 10 items at first, or with thousands. In either case, you'll run into problems that will need solving.
@@ -21,9 +21,9 @@ Many of the digital scholarship projects that emerge involve digitally curated c
 1. **Create a story or argument about your collection**. What does it mean? Don’t get too caught up here, either. This is for fun. But it’s worth having written some narrative about this material. Why does it matter? Maybe your narrative only includes 5 items. That's ok.
 1.	**Write down some questions raised by your collection** What might it mean? What might a person learn from this group of stuff that we don’t know? How might it expose something interesting in the world? Don't skip this part. Many of these tools are only helpful if you are trying to ask questions. As you get to know the tools, you should also be getting to know your data.
 
-## Use your play collection
+# Use your play collection
 
-# Curate a collection and make a digital exhibit
+## Curate a collection and make a digital exhibit
 Get a [Reclaim Hosting](http://reclaimhosting.com) account. Try to make a web exhibit in each of the platforms. You will probably be uploading the items one at a time. That's ok. Just copy and paste from your spreadsheet or list. Try to create a narrative about some aspect of your collection. Play with the ways that narrative changes across each of these. What is easier or harder to do with each tool? (Some of these tools are designed for collections, and some for exhibits. But try doing both things in all of them)
 
 1. 	Omeka
@@ -31,7 +31,7 @@ Get a [Reclaim Hosting](http://reclaimhosting.com) account. Try to make a web ex
 1. 	Wordpress
 1. 	Scalar
 
-# Also try visualizing your data
+## Also try visualizing your data
 If your spreadsheet has dates, people, places, categories, text, links to images, those things will come in handy here. Many of the platforms below will assume you're starting with a .csv file. Excel and google sheets will both save a sheet as .csv. It stands for "Comma Separated Values" and is a standard way to share data. As you work with these tools, you may find that you need to fix or change things about your spreadsheet. For example some of them will have the option to let you include urls for image files located on the web. If you used the sites above to upload your files as part of making your collection or exhibit, you might be able to use the URLS for image files that are on the web in the table.
 
 1.	Google Fusion Tables

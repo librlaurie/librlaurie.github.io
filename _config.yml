@@ -9,11 +9,11 @@
 title: Laurie Allen
 email: laurie.allen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The beginning of the process where I move my site, which I dislike, from wordpress to jekyll.
+  librarian. philadelphian.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://librlaurie.github.io/" # the base hostname & protocol for your site
 twitter_username: librlaurie
 github_username:  librlaurie
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
