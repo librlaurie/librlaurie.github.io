@@ -14,36 +14,28 @@
   <!-- Include all compiled plugins (below), or include individual files as needed -->
   <script src ="/javascript/bootstrap.min.js"></script>
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li><span class="text">{{ site.title }}</span></li>
+          <li><span class="text-white-bg">{{ site.title }}</span></li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
-      </div>
+    </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
+    <div class="footer-col footer-col-2">
+      <ul class="social-media-list">
           {% if site.github_username %}
-          <li>
-            <span class="text">{% include icon-github.html username=site.github_username %}</span>
-          </li>
+        <li>
+            <span class="text-white-bg">{% include icon-github.html username=site.github_username %}</span>
+        </li>
           {% endif %}
 
           {% if site.twitter_username %}
-          <li>
-            <span class="text">{% include icon-twitter.html username=site.twitter_username %}</span>
-          </li>
+        <li>
+            <span class="text-white-bg">{% include icon-twitter.html username=site.twitter_username %}</span>
+        </li>
           {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p><span class="text">{{ site.description }}</span></p>
-      </div>
+      </ul>
     </div>
-
   </div>
 
 </footer>
