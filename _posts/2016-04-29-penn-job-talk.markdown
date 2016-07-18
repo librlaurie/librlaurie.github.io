@@ -6,11 +6,10 @@ categories: talks
 excerpt_separator: <!--more-->
 ---
 What follows is a lightly edited version of the talk I gave as part of my interview for the job of Assistant Director for Digital Scholarship on December 4, 2015. I had a lot of slides, most of which were screenshots, and I've mostly just converted them to links. Also, I had a bunch of jokes in the talk. It turns out I'm very corny. I couldn't keep those in the written version either.
-
+<!--more-->
 ## The prompt:
 
 > **Discuss three ways in which the nature of academic scholarship is changing and identify key services for each that Penn Libraries should offer in support of researchers’ evolving needs.**
-<!--more-->
 
 Thank you so much for being here today. My talk today is going to address the question I was asked, but before I get started, I will spend a few moments talking about who I am and what I’m bringing to this question. Part of what I bring is my love for Philly. This is my home, and the city I love. As many of you know I worked here at Penn in the Research and Instructional Services Department as Social Sciences Data Services Librarian from 2002-2008, and I've been at Haverford for the past seven and a half years. For the first few years at Haverford, I was the Coordinator for Research, Instruction, and Outreach.  After we brought in an awesome new library director who led us through a big re-organization, I moved into my current role as Coordinator for Digital Scholarship and Services.
 

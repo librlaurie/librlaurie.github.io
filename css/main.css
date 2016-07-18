@@ -6,6 +6,19 @@
     height:300px;
 }
 
+.site-footer {
+  color:#FFFFFF;
+  background-image:url("/assets/images/northwest-plan-outline-2.png");
+  background-repeat:no-repeat;
+  background-size: cover;
+  height:175px;
+}
+
+.site-footer .text {
+  font-size: larger;
+  background-color: #ffffff;
+}
+
 a {
   color:#134200;
 }

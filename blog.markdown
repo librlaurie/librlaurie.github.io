@@ -8,7 +8,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <li>{{ post.date | date: "%b %-d, %Y" }}
       <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="text-center">{{ post.title }}</a>
       </h2>
       {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
     </li>

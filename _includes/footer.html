@@ -15,12 +15,10 @@
   <script src ="/javascript/bootstrap.min.js"></script>
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li><span class="text">{{ site.title }}</span></li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
@@ -29,20 +27,20 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            <span class="text">{% include icon-github.html username=site.github_username %}</span>
           </li>
           {% endif %}
 
           {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <span class="text">{% include icon-twitter.html username=site.twitter_username %}</span>
           </li>
           {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <p><span class="text">{{ site.description }}</span></p>
       </div>
     </div>
 
