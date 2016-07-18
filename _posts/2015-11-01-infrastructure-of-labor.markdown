@@ -6,9 +6,6 @@ categories: talks
 excerpt_separator: <!--more-->
 ---
 
-
-## Infrastructure of labor: student worker/scholars
-
 This talk was given as part of a panel with Stewart Varner and Barbara
 Rockenbach at the DLF Fall Forum in Vancouver. I had already seen
 [Stewart’s

@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Penn Job Talk"
+title:  "Penn Libraries Job Talk"
 date:   2016-04-29
 categories: talks
 excerpt_separator: <!--more-->
 ---
-### Penn Libraries Job Talk
-
 What follows is a lightly edited version of the talk I gave as part of my interview for the job of Assistant Director for Digital Scholarship on December 4, 2015. I had a lot of slides, most of which were screenshots, and I've mostly just converted them to links. Also, I had a bunch of jokes in the talk. It turns out I'm very corny. I couldn't keep those in the written version either.
 
 ## The prompt:
