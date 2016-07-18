@@ -3,6 +3,7 @@ layout: post
 title:  "On Becoming Public"
 date:   2014-05-26
 categories: posts
+excerpt_separator: <!--more-->
 ---
 
 **Updated January 2015**
@@ -16,6 +17,7 @@ what I’ve learned by developing this public version of me.
 
 First, why am I creating a web presence for myself (after all these
 happy years without one)?
+<!--more-->
 
 I have been a librarian for about as long as I have been an adult.
  However, nothing about working in libraries required me to have a

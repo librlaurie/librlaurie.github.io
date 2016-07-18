@@ -3,6 +3,7 @@ layout: post
 title:  "Turning Library Records into Data: A Conversation & Workshop"
 date:   2014-11-15
 categories: talks
+excerpt_separator: <!--more-->
 ---
 
 #### Update: It happened — [links and slides here](https://docs.google.com/document/d/1qfD6THzDMGn1joNFwCMlCiCyMiWISYPMEnILAMAOiUc/edit)
@@ -22,15 +23,13 @@ Tuesday, December 9, 2014, 1:00-4:45pm
 Library Company of Philadelphia Cassatt House, 1320 Locust Street
 Philadelphia, PA
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 As more and more hackers, students, and scholars are engaging in
 creative projects that require “big data,”this two-part session invites
 librarians and archivists to think through ways to expose their
 collections to interpretation and analysis by digital humanities
 scholars, students, and local hackers, and to make those collections
 easily mappable<span class="s1">.</span>
-
+<!--more-->
 **Presenters:**
 
 Laurie Allen, Coordinator for Digital Scholarship and Services,

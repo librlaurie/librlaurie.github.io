@@ -3,6 +3,7 @@ layout: post
 title:  "The content / interface abstraction"
 date:   2014-10-16
 categories: talks
+excerpt_separator: <!--more-->
 ---
 
 At a [recent conference](http://uha.udayton.edu/conf.html), I took part
@@ -27,6 +28,7 @@ allow us to export content, and to keeping track of which parts of a
 project will be saved and for how long, and to think separately about
 presentation.
 
+<!--more-->
 However, as I look back on that conference session and the conversations
 we had, I struggle somewhat with the binary that I’m assuming and
 accepting in my endorsement of the content vs interface approach.

@@ -3,6 +3,7 @@ layout: post
 title:  "Repository + repo = ?"
 date:   2014-11-15
 categories: talks
+excerpt_separator: <!--more-->
 ---
 
 This is another not-yet-fully-formed thought. This iteration of the
@@ -21,7 +22,7 @@ They have many great qualities! They have the benefit of allowing for
 new commits, for branching and forking and sharing in robust and
 powerful ways. And, they are extremely widely used and adopted, and so
 learning git helps you learn many other things.
-
+<!--more-->
 What I want is a repository of repos?
 
 That can’t be right.

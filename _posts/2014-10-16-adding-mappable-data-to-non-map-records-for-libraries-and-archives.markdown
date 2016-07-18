@@ -3,6 +3,7 @@ layout: post
 title:  "Adding mappable data to non-map records (for libraries and archives)"
 date:   2014-10-16
 categories: talks
+excerpt_separator: <!--more-->
 ---
 
 
@@ -39,7 +40,7 @@ The question:
 > coordinate-level or address level encoding of places.
 
 The answers fell into a few categories
-
+<!--more-->
 1) Encouragement
 ----------------
 

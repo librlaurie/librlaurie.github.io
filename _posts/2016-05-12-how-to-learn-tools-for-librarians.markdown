@@ -3,10 +3,11 @@ layout: post
 title:  "Tips for Learning Tools for Librarians"
 date:   2016-05-12
 categories: talks
+excerpt_separator: <!--more-->
 ---
 
 Sometimes librarians ask me how they should start learning all the tools. First, I give them a long, irritating lecture about how resistant I am to the notion of learning tools. Because the nature of tools is that they are useful **FOR** something, and it doesn’t make sense to talk about the tools in the absence of their uses. Don’t learn a tool. Learn how to do something you want to do, and you will naturally learn to use some tools. It might turn out that the tool you’re using is perfect for your use, and terrible for another one, but tools aren’t useful to learn in the absence of goals that make use of them. But I know that’s an obnoxious answer, and I actually do have some approaches that worked for me (and others) for getting feet wet in the world of digital scholarship activities.
-
+<!--more-->
 One approach is to do an assignment from a professor who teaches Digital Humanities. Check out Miriam Posner’s DH101 [tutorials list](http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/) for a great and manageable list to start with.
 
 But practicing librarians are not required to get through all the material in a semester, and so I recommend a different method in addition or instead.  It’s basically to get or make a play collection that you use across the tools you think you might learn. This method also works great when you’re collaborating on it with a student worker. Assigning each step to a student will ensure that you understand it, and why it’s helpful. It may seem like getting a student to learn it instead of you will be a waste, but in my experience, the goal is to get a student to learn it with you. It's more work for you the first time, but it helps you grow everyone's skills. They’ll struggle and tell you all of the ways it was hard, they’ll gain experience with the tools and approaches, and you'll gain experience talking about these things. But if you don't have a student, just do it yourself, or with other colleagues.

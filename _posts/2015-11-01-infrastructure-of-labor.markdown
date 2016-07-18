@@ -3,6 +3,7 @@ layout: post
 title:  "Infrastructure of labor: student worker/scholars"
 date:   2015-11-01
 categories: talks
+excerpt_separator: <!--more-->
 ---
 
 
@@ -18,7 +19,7 @@ Here is roughly what I said. Some of the screenshots are links to pages,
 and some are pictures of closed sites. Where we have the faculty and
 student’s permission, I’ve shared the links.
 
- 
+<!--more-->
 
 [![Screen Shot 2015-10-31 at 8.33.43
 PM](/assets/images/2015/11/Screen-Shot-2015-10-31-at-8.33.43-PM-300x164.png)
