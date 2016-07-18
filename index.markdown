@@ -3,7 +3,7 @@ layout: default
 ---
 ![laurie talks](/assets/images/Laurie-talky.jpg){: .img-responsive .text-right .img-square}
 
-On February 15, 2016 I started my new job as Assistant Director for Digital Scholarship at the Penn Libraries. I&#8217;m thrilled for this opportunity to be part of a vibrant and exciting community there. In that role, I
+On February 15, 2016 I started my new job as Assistant Director for Digital Scholarship at the Penn Libraries. I&#8217;m thrilled for this opportunity to be part of a vibrant and exciting community there. In this role, I work with a newly created team to expand the capacity of researchers at Penn to create and share scholarship in new forms. More specifically, our group is responsible for coordinating research data management, for supporting open access publishing, and for engaging in developing research methods like database development, digital exhibition, mapping and text mining. 
 
 Before joining the Penn Libraries, I worked at the Haverford College Libraries, as Coordinator for Digital Scholarship Services.
 
