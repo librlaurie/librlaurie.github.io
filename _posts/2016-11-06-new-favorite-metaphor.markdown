@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Digital scholarship is about creating channels"
-date:   2016-11-06
+date:   2016-12-10
 categories: talks
 excerpt_separator: <!--more-->
 ---
 
 In the last few months, I've become involved in an [environmental humanities](http://www.ppehlab.org/lsrcorps/) project that has deeply impacted the way I see my work. At the same time, and even more so since the election, I'm aware of how deeply connected the precarity and faults that exist within our information landscape are to the precarity and faults of our civil society.  As the project I'm working on has been closely tied to a particular river (the Schuylkill), I've been thinking a lot of the analogies between waterways and workflows (the "flow" in workflow makes it obvious that I'm not the first person to see this connection). Also, because Digital Scholarship is a very difficult term to describe, I am always in search of new analogies and metaphors to draw from when describing what a digital scholarship department in a library can do.  Here, I'm testing out a new analogy that has helped me answer questions about how our department spends its time.
 <!--more-->
+
 **Imaginary question:** How do you decide what projects and activities to focus on in a Digital Scholarship Department?
 
 **Frustratingly complex answer:**
