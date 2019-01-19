@@ -3,7 +3,7 @@
     background-image:url("/assets/images/northwest-plan-outline-2.png");
     background-repeat:no-repeat;
     background-size: cover;
-    height:300px;
+    height:150px;
 }
 
 .site-footer {
@@ -11,7 +11,7 @@
   background-image:url("/assets/images/northwest-plan-outline-2.png");
   background-repeat:no-repeat;
   background-size: cover;
-  height:175px;
+  height:150px;
 }
 
 .text-white-bg{
@@ -50,10 +50,19 @@ a {
 
 .footer-col-3 { width: -webkit-calc(45% - (1.5em / 2)); width: calc(45% - (1.5em / 2)); }
 
-/** Posts */
+/** Posts **/
+.post-content {
+  margin-left: 10%;
+  margin-right: 10%;
+}
 .post-list { margin-left: 0; list-style: none; }
 .post-list > li { margin-bottom: 1.5em; }
-
 .post-meta { font-size: 1.05em; color: #6e6563; }
 
 .post-link { display: block; font-size: 24px; }
+
+
+/** Article **/
+article {
+  margin-bottom: 100px;
+}
