@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Digital scholarship is about creating channels"
 date:   2016-12-10
-categories: talks
 excerpt_separator: <!--more-->
 ---
 

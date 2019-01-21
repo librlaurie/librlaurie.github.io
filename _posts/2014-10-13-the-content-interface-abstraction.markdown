@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "The content / interface abstraction"
 date:   2014-10-16
-categories: talks
 excerpt_separator: <!--more-->
 ---
 

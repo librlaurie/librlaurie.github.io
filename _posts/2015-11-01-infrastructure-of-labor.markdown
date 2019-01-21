@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Infrastructure of labor: student worker/scholars"
 date:   2015-11-01
-categories: talks
 excerpt_separator: <!--more-->
 ---
 

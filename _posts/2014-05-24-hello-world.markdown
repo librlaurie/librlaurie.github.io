@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "On Becoming Public"
 date:   2014-05-26
-categories: posts
 excerpt_separator: <!--more-->
 ---
 

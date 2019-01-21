@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "Radical Open Access Two"
+layout: single
+title:  "From Guerrilla Open Archives"
 date:   2018-06-27
-categories: talks
+
 excerpt_separator: <!--more-->
 ---
 
-### Paper presented at Radical Open Access Two
+## On Data Refuge
+
+**This is the text of an essay I contributed to a pamphlet published by Memory of the World. I am deeply grateful to Memory of the World for inviting me to prepare this paper, for editing it, and for teaching me so much since then. The full pamphlet, including this essay and two others is available here: [https://hcommons.org/deposits/item/hc:19825/](https://hcommons.org/deposits/item/hc:19825/)**
 
 
 My goal in this paper is to tell the story of a grass-roots project called Data Refuge (http://www.datarefuge.org) that I helped to co-found shortly after, and in response to, the Trump election in the USA. Trump’s reputation as anti-science, and the promise that his administration would elevate people into positions of power with a track record of distorting, hiding, or obscuring the scientific evidence of climate change caused widespread concern that valuable federal data was now in danger. <!--more--> The Data Refuge project grew from the work of Professor Bethany Wiggin and the graduate students within the Penn Program in Environmental Humanities (PPEH), notably Patricia Kim, and was formed in collaboration with the Penn Libraries, where I work. In this paper, I will discuss the Data Refuge project, and call attention to a few of the challenges inherent in the effort, especially as they overlap with the goals of this collective.

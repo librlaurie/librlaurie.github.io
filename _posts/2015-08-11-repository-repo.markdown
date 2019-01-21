@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: posts
 title:  "Repository + repo = ?"
 date:   2014-11-15
-categories: talks
 excerpt_separator: <!--more-->
 ---
 

@@ -1,19 +1,21 @@
 ---
-layout: page
-title: Resume
-permalink: /resume/
+layout: single
+author_profile: true
+permalink: resume3
 ---
 
-
+# Professional Experience
 ## University of Pennsylvania Libraries, 2016-present
+### Director for Digital Scholarship
 
-### Assistant Director for Digital Scholarship
-
-- Lead a team of six library staff in a newly formed Digital Scholarship Unit responsible
-    - Data Curation and Management
-    - Digital Research Methods and Digital Project Development
-    - Digital Open Access Publishing activities at the Penn Libraries
 - Plan for and create infrastructure to support a program of digital scholarship across the University
+- Lead a Digital Scholarship department of eight librarians in a newly formd Digital Scholarship unit responsible For:
+  - Digital Humanities  
+  - Data Curation & Management
+  - Scholarly Communications & Publishing
+  - Mapping & Geospatial Data
+  - Judaica DH Projects
+  - Public & Community Data Curation
 
 
 ## Haverford College Libraries, 2008-2016
@@ -21,75 +23,22 @@ permalink: /resume/
 ### Coordinator for Digital Scholarship & Services, 2011-2016
 
 **Leadership Roles**
+- Developed a sustainable, fully staffed and successful program to support digital scholarship, including staffing, planning, workflow and technical aspects.
+- Created and led Digital Scholarship Fellows program (year-long fellowship program for sophomores interested in gaining skills and approaches in Digital Scholarship)
+- Participated in strategic planning for the library as part of the library management team, and contributed to planning for a major renovation of Haverford’s main library, including a new Digital Scholarship Commons
+- Designed and manage student internships for making new and creative uses of materials from the Quaker and Special Collections in the Libraries
+- Participated in a team that established strategic priorities, workflows and practices for digitization across Haverford Libraries
+- Served as first point of contact regarding all data management plans for inclusion in grant applications
 
--   Supervised one full-time librarian, and lead a collaborative team
-    including librarians and student workers in developing and
-    maintaining a sustainable and successful program to support digital
-    scholarship
--   Participate in long- and short-term strategic planning for the
-    library
--   Plan for and implement the technology necessary for the creation of
-    digital scholarship: servers, software and applications supporting
-    Drupal, WordPress, Omeka with Neatline, Django, geoserver and solr
-    and other technologies
--   Help subject librarians gain skills to incorporate support for
-    multi-modal scholarship into their practice while creating tools to
-    make that incorporation more seamless
--   Participate in Digit team to establish strategic priorities,
-    workflows and practices for digitization across Haverford Libraries
--   Contribute to conceptual plans for a major renovation of Haverford’s
-    main library, including a new Digital Scholarship Commons
-
-**Project-based Work**
-
--   Serve as technical and project management lead on faculty digital
-    scholarship projects, including defining the scope of projects,
-    timelines, supervision of student developers, long term preservation
-    support, grant writing, etc.
--   Design and manage student internships designed to make new and
-    creative uses of materials from the Quaker and Special Collections
-    in the Libraries
--   Consult and/or provide technical or project management support on
-    ongoing projects
-
-**Program Planning**
-
--   Plan events, speakers, and outreach opportunities for the Haverford
-    community related to Digital Scholarship
--   Lead Digital Scholarship Fellows program (year-long fellowship
-    program for sophomores interested in gaining skills and approaches
-    in Digital Scholarship)
-
-**Course Consultation**
-
--   Consult with faculty members on incorporating digital approaches and
-    technologies to assignments and syllabi
--   Design and lead workshops on topics including: digital exhibits,
-    tools for mapping, text encoding, digital collections building,
-    advanced excel, survey software, anatomy of technology, and anatomy
-    of information
--   Hold office hours to support students engaged in digital scholarship
-    work in their courses
-
-**Other Work**
-
--   Serve as first point of contact regarding all data management plans
-    for inclusion in grant applications
--   Serve as liaison to the Sociology and U.S. history departments,
-    including collection development, instruction and research
-    assistance
--   Provide instructional and consultation support for students in the
-    Bryn Mawr College Cities Program
 
 ### Coordinator for Research, Instruction, and Outreach, 2008-2011
 
--   Managed a team of 5 professional and 2 support staff who provided
-    all reference, instruction and circulation services across three
-    libraries to support scholarship, teaching and learning
--   Served as liaison to the Sociology, and (briefly) English
-    departments, including collection development, instruction and
-    research assistance
--   Coordinated long and short term building plans
+- Managed a team of 7 staff who provided all reference, instruction and circulation services across three libraries to support scholarship, teaching and learning
+
+- Served as liaison to the Sociology, and (briefly) English departments, including collection development, instruction and research assistance
+
+- Coordinated long and short-term building plans across three library buildings
+
 
 **Select Haverford & Tri-College Project & Committee Work**
 
@@ -166,6 +115,18 @@ Holyoke campus using electronic and in person delivery systems
 Processed borrowing and lending requests ; created and designed new ILL
 website and forms; Increased functionality of Clio software program to
 improve ILL workflow
+
+# Projects and Professional Service
+## Monument Lab    2014 - present
+ - Working with Paul Farber, Ken Lum, and others, serve as Research Director for Monument Lab, and for the 2015 and 2017 exhibitions, funded by Pew Center for Arts & Culture, William Penn Foundation and others. Developed and implemented public engagement and research system for citywide exhibition. www.monumentlab.com.
+
+## Data Refuge  2016 - present
+Together with Professor Bethany Wiggin, Margaret Janz, Patricia Kim and graduate students in the Penn Program in Environmental Humanities, I co-founded Data Refuge, an international effort to safeguard federal environmental and climate data.  
+
+## Collections as Data 2015 - present
+In collaboration with PI Thomas Padilla and other colleagues led a successful IMLS National Forum Grant entitled “Collections as Data – Always Already Computational” to explore practices  – Co-PI
+Mellon Collections as Data – Part 2 Whole
+
 
 ## Professional Development and Leadership
 

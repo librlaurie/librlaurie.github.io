@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Adding mappable data to non-map records (for libraries and archives)"
 date:   2014-10-16
-categories: talks
 excerpt_separator: <!--more-->
 ---
 

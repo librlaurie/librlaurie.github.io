@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Tips for Learning Tools for Librarians"
 date:   2016-05-12
-categories: talks
 excerpt_separator: <!--more-->
 ---
 

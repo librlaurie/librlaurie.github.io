@@ -1,41 +1,19 @@
-<footer class="site-footer">
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-    ga('create', 'UA-51287589-3', 'auto');
-    ga('send', 'pageview');
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
-  </script>
-  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <script src="/javascript/jquery-1.10.2.js"></script>
-  <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src ="/javascript/bootstrap.min.js"></script>
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-        <ul class="contact-list">
-          <li><span class="text-white-bg">{{ site.title }}</span></li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-    </div>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
+</div>
 
-    <div class="footer-col footer-col-2">
-      <ul class="social-media-list">
-          {% if site.github_username %}
-        <li>
-            <span class="text-white-bg">{% include icon-github.html username=site.github_username %}</span>
-        </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-        <li>
-            <span class="text-white-bg">{% include icon-twitter.html username=site.twitter_username %}</span>
-        </li>
-          {% endif %}
-      </ul>
-    </div>
-  </div>
-
-</footer>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

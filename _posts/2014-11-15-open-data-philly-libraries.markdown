@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Turning Library Records into Data: A Conversation & Workshop"
 date:   2014-11-15
-categories: talks
 excerpt_separator: <!--more-->
 ---
 
