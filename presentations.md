@@ -4,8 +4,6 @@ author_profile: true
 
 ---
 
-Laurie has done a lot of presentations!!!!
-
 
 "Collections As Data: Digital Collections for Emerging Research Methods" **Closing Keynote at Dariah Beyond Europe**. Library of Congress. October 4, 2018. [https://dbe.hypotheses.org/workshops/library-of-congress/keynotes](https://dbe.hypotheses.org/workshops/library-of-congress/keynotes). With Stewart Varner.
 
